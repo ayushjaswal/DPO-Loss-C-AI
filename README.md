@@ -1,12 +1,11 @@
 # Self Attention
 
-Self Attention and Positional Encoding calculator for Mission 6 Conversational AI.
+DPO LOSS calculator and example for Mission 8 Conversational AI.
 
 ## Files
 
-- `positional_encoding.py` - The positional encoding generator for the sentence
-- `self_attention_core.py` - The self attention mechanism calculator 
-- `attention_weights_heatmap` - Heat map for the generated self attention
+- `dpo_loss.py` - The DPO Loss calculator file, including the example funtion
+- `requirement.txt` - The dependency list of libraries
 
 ## Usage
 
